@@ -1,2 +1,18 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+*.log
+
+# IDEs
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema
+.DS_Store
+
 target/
 *.class
