@@ -2,7 +2,6 @@ package com.nogueira.application;
 
 import java.util.Locale;
 import java.util.Scanner;
-
 import com.nogueira.entities.Triangle;
 
 public class Main {
@@ -20,6 +19,7 @@ public class Main {
         x.a = sc.nextDouble();
         x.b = sc.nextDouble();
         x.c = sc.nextDouble();
+        
         System.out.println("Enter the measures of triangle Y: ");
         y.a = sc.nextDouble();
         y.b = sc.nextDouble();
